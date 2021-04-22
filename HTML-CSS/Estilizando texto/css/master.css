@@ -10,6 +10,19 @@ p {
   line-height: 24px;
 }
 
+.text-center {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
 @media all and (min-width: 800px) {
   div {
     columns: 2;
