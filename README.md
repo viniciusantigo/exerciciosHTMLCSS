@@ -1,2 +1,2 @@
 # HTML-CSS-JavaScript
-Repositório usado pra salvar exercícios em HTML, CSS e JavaScript
+Repositório criado para arquivar exercícios feitos na cadeira de LM (Linguagem de Marcação) que realizei no IFPB
